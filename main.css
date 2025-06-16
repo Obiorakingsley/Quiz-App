@@ -13,6 +13,7 @@ body{
   display: grid;
   align-items: center;
   place-content: center;
+  height: 100vh;
 }
 
 .score{
