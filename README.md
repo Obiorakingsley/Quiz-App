@@ -13,7 +13,7 @@ This is a simple interactive quiz application built with JavaScript, Html and Cs
 - Responsive design
 
 ## 🛠️ Tech Stack
-- ### JavaScriipit
+- ### JavaScripit
 - ### HTML5
 - ### CSS3
 
