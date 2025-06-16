@@ -3,7 +3,7 @@
 ## 📝 Overview
 This is a simple interactive quiz application built with JavaScript, Html and Css. The app presents users with a series of questions, tracks their score, and provides a summary at the end.
 
-## 🔗 [Live Demo]()
+## 🔗 [Live Demo](https://quiz-app-obiora-kingsleys-app.vercel.app/)
 
 ## ✨ Features
 - Multiple-choice question format
