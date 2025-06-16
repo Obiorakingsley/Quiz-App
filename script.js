@@ -13,6 +13,36 @@ let questions = [{
 },
 {
   topic: 'Tech',
+  question: 'What does "AI" stand for',
+  possibleAnswers: ['Automated Intelligence', 'Artificial Intelligence', 'Advanced Interface'],
+  correct: 'Artificial Intelligence'
+},
+{
+  topic: 'History',
+  question: 'Who was the first president of the United States',
+  possibleAnswers: ['Thomas Jefferson', 'Abraham Lincoln', 'George Washington'],
+  correct: 'George Washington'
+},
+{
+  topic: 'Geography',
+  question: 'Which is the longest river in the world',
+  possibleAnswers: ['Amazon River', 'Nile River', 'Yangtze River'],
+  correct: 'Nile River'
+},
+{
+  topic: 'Entertainment',
+  question: 'Who played the role of Iron Man in the Marvel Cinematic Universe',
+  possibleAnswers: ['Chris Evans', 'Robert Downey Jr.', 'Chris Hemsworth'],
+  correct: 'Robert Downey Jr.'
+},
+{
+  topic: 'Sports',
+  question: 'Which country won the FIFA World Cup in 2022',
+  possibleAnswers: ['France', 'Argentina', 'Brazil'],
+  correct: 'Argentina'
+},
+{
+  topic: 'Tech',
   question: 'Whats the best programming language',
   possibleAnswers: ['Python', 'javascript', 'Css'],
   correct: 'javascript'
@@ -22,12 +52,6 @@ let questions = [{
   question: 'What is the chemical symbol for Gold',
   possibleAnswers: ['Go', 'Gd', 'Au'],
   correct: 'Au'
-},
-{
-  topic: 'Geography',
-  question: 'Which is the longest river in the world',
-  possibleAnswers: ['Nile', 'Amazon', 'Yangtze'],
-  correct: 'Nile'
 },
 {
   topic: 'History',
